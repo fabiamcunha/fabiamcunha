@@ -1,18 +1,31 @@
-## olá, 👋sou  Fabia! 
+## olá,sou  Fabia! 👏
 
 ### sobre mim
 
-Programadora web em desenvolvimento,
-curiosa por natureza  e apaixonada por cafe☕
+Programadora web em desenvolvimento, autodidata apaixonada em cafe e codigo.
 
 ### me encontre aqui
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabia-cunha-3759a981/)](https://www.linkedin.com/in/fabia-cunha-3759a981/) [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fabiamcunha)](https://github.com/fabiamcunha)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabia-cunha-3759a981/)](https://www.linkedin.com/in/fabia-cunha-3759a981/) 
 
 
-linguagens e frameworks
-![image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
-![image]({https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white})
-!.[imagen]({https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black})
+💻linguagens e framework
+
+![imgen](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![imagen](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![imagen](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![imagen](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![imagen](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![imagen](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![imagen](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![imagen](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![imagen](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiamcunha)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiamcunha)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 
 
 
